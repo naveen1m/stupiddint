@@ -2,7 +2,7 @@
 - ✨ I'm the stupiddint
 - 👯 I’m interested in open source contribution.
 - 🌱 I’m currently learning machine learning...
-- 🤔 I’m looking for help with open source.
+- 🤔 I’m looking for help with open source and mentoring.
 - 👨‍💻 making connections
 - 💬 Ask me about ... insta - @navstr10
 
