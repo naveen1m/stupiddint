@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello!!! 👋
+- ✨ I'm the stupiddint
+- 👯 I’m interested in open source contribution.
+- 🌱 I’m currently learning machine learning...
+- 🤔 I’m looking for help with open source.
+- 👨‍💻 making connections
+- 💬 Ask me about ... insta - @navstr10
 
+                                                   🤝 naveen
 <!--
 **stupiddint/stupiddint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
