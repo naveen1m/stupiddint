@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning machine learning...
 - 🤔 I’m looking for help with open source and mentoring.
 - 👨‍💻 making connections
-- 💬 Ask me about ... insta - @navstr10
 
                                                    🤝 naveen
 <!--
