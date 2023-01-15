@@ -25,23 +25,25 @@
 <hr>
 <!--stats  -->
 
-<p>
+<!-- <p>
   <img align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=stupiddint&langs_count=8&theme=react" />
-</p>
-
+</p> -->
+<!-- 
 <a href="https://github.com/stupiddint"><img alt="naveen's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=stupiddint&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
+    src="https://github-readme-stats.vercel.app/api?username=stupiddint&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a> -->
+<!-- <a href="https://github.com/stupiddint"><img alt="naveen's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=stupiddint&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stupiddint&theme=black-ice"
-    alt="thespeedx" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stupiddint&theme=black-ice"
+    alt="thespeedx" /></p> -->
 
-<!-- <div align="left">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&username=stupiddint" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=stupiddint" height="150" alt="languages graph"  />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stupiddint&" height="150" alt="stupiddint" /></p>
-</div> -->
-
+</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stupiddint&theme=black-ice"
+    alt="stupiddint" /></p>
 <!-- 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=stupiddint&show_icons=true&locale=en&layout=compact" alt="stupiddint" /></p>
 
