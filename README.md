@@ -5,9 +5,8 @@
 <h3 align="center">MERN stack developer with an interest for AI/ML</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stupiddint" alt="stupiddint" /></a> </p> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stupiddint&label=Profile%20views&color=0e75b6&style=flat" alt="stupiddint" /> </p>
-
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=stupiddint&label=Profile%20views&color=0e75b6&style=flat" alt="stupiddint" /> </p>
+-->
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **stupiddint@gmail.com**
@@ -51,3 +50,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stupiddint&show_icons=true&locale=en" alt="stupiddint" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stupiddint&" alt="stupiddint" /></p> -->
+
+<P align="center" >Show some <span color="red">❤️</span> by starring some of the repositories!</P>
