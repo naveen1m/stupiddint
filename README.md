@@ -51,4 +51,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stupiddint&" alt="stupiddint" /></p> -->
 
-<P align="center" >Show some <span color="red">❤️</span> by starring some of the repositories!</P>
+<P align="center" ><b>Show some <span color="red">❤️</span> by starring some of the repositories!</b></P>
