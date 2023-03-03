@@ -1,8 +1,8 @@
 <!-- <img src="https://miro.medium.com/max/2878/0*M50IPKZz58Fyy178.gif" />
 <img src="https://miro.medium.com/max/2878/0*M50IPKZz58Fyy178.gif"> -->
 ![0_M50IPKZz58Fyy178](https://user-images.githubusercontent.com/94122792/212531512-20606b17-d270-4078-9485-47364a48e5fa.gif)
-<h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
-<h3 align="center">MERN stack developer with an interest for AI/ML</h3>
+<h1 align="center">Hi 👋, I'm <b>Naveen Kumar</b></h1>
+<h3 align="center">A full stack web developer(MERN)</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stupiddint" alt="stupiddint" /></a> </p> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=stupiddint&label=Profile%20views&color=0e75b6&style=flat" alt="stupiddint" /> </p>
